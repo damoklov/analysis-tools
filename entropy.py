@@ -1,7 +1,7 @@
 """
 Entropy Analyzer and Visualizer
 Version: 0.1
-Usage: python3 entropy.py -f binary [-s size]
+Usage: python3 entropy.py -f binary [-s size] [-o output.png]
 """
 
 import argparse
